@@ -20,7 +20,9 @@ while True:
     print("2. Resta")
     print("3. Multiplicación")
     print("4. División")
+    print("4.5 División")
     print("5. Salir")
+    print("modificicion")
 
     opcion = input("Seleccione una opción (1/2/3/4/5): ")
 
